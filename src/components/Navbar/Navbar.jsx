@@ -21,7 +21,7 @@ const Navbar = () => {
     <Links key={route.id} route={route}></Links>
   ))
   return (
-    <nav className="flex justify-between lg:items-center w-11/12 lg:container mx-auto mt-5">
+    <nav className="flex justify-between items-center w-11/12 lg:container mx-auto mt-5">
       <span className="flex gap-2">
         <span className="flex-col">
         {open ? (
@@ -30,7 +30,7 @@ const Navbar = () => {
           <Menu onClick={handleToggle} className="lg:hidden"></Menu>
         )}
 
-        <ul className={`bg-slate-800 p-5 rounded-xl absolute duration-500 ${open? "top-12": "-top-40"}`}>
+        <ul className={`bg-slate-800 p-2 rounded-xl absolute duration-500 ${open? "top-14": "-top-40"}`}>
             {
                 open&&links
             }

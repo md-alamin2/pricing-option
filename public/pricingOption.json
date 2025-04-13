@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Standard Room",
+      "price": "$49/day",
+      "description": "A cozy and comfortable room for budget travelers.",
+      "features": [
+        "1 Queen Bed",
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Private Bathroom",
+        "Daily Housekeeping",
+        "Tea/Coffee Maker",
+        "24/7 Reception",
+        "In-room Safe",
+        "Complimentary Toiletries"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Room",
+      "price": "$79/day",
+      "description": "Spacious room with premium amenities and a city view.",
+      "features": [
+        "1 King Bed",
+        "City View",
+        "Mini Bar",
+        "Complimentary Breakfast",
+        "Room Service",
+        "Free Wi-Fi",
+        "Smart TV with Streaming Services",
+        "Bathrobe and Slippers",
+        "Work Desk",
+        "Late Checkout Option"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Suite",
+      "price": "$129/day",
+      "description": "Luxury suite with a private balcony and living area.",
+      "features": [
+        "1 King Bed + Sofa",
+        "Private Balcony",
+        "Jacuzzi Tub",
+        "Separate Living Room",
+        "Dining Area",
+        "VIP Lounge Access",
+        "Premium Bedding",
+        "Personalized Concierge Service",
+        "Nespresso Machine",
+        "Soundproof Walls"
+      ]
+    }
+  ]
+  
