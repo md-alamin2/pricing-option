@@ -8,7 +8,7 @@ const PackageCard = ({pricing}) => {
         <div className='border-2 rounded-2xl bg-gradient-to-br from-indigo-400 via-orange-300  to-red-400 p-4'>
             {/* card header */}
             <div className='lg:text-center'>
-                <h1 className='text-5xl'>{name}</h1>
+                <h1 className='text-5xl font-semibold'>{name}</h1>
                 <h4 className='text-3xl'>{price}</h4>
             </div>
             {/* card body */}
